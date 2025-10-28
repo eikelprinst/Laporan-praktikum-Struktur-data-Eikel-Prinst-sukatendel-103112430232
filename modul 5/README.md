@@ -1,5 +1,5 @@
-# <h1 align="center">Laporan Praktikum Modul 5 <br> Nama Modul</h1>
-<p align="center">NAMA - NIM</p>
+# <h1 align="center">Laporan Praktikum Modul 5 <br> Linked List</h1>
+<p align="center">EIKEL PRINST SUKATENDEL - 103112430232</p>
 
 ## Dasar Teori
 
@@ -184,8 +184,7 @@ int main() {
 ```
 
 > Output
-> ![Screenshot bagian x](output/screenshot_soal1.png)
-> %% Untuk mencantumkan screenshot, tidak boleh ada spasi di urlnya `()`, penamaan file bebas asal gak sara dan mudah dipahami aja,, dan jangan lupa hapus komen ini yah%%
+> ![Screenshot bagian x](output/Unguided1.png)
 
 Program ini digunakan untuk mengelola data buku (tambah, hapus, ubah, tampilkan) menggunakan Linked List dalam C++.
 
