@@ -140,7 +140,6 @@ int main() {
 
 > Output
 > ![Screenshot bagian x](Output/main.png)
-> %% Untuk mencantumkan screenshot, tidak boleh ada spasi di urlnya `()`, penamaan file bebas asal gak sara dan mudah dipahami aja,, dan jangan lupa hapus komen ini yah%%
 
 Program ini membuat antrian pembeli dengan linked list (konsep Queue: FIFO).
 
