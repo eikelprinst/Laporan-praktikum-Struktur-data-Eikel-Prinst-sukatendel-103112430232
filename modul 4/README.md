@@ -139,7 +139,7 @@ int main() {
 ```
 
 > Output
-> ![Screenshot bagian x](output/screenshot_soal1.png)
+> ![Screenshot bagian x](output/main.png)
 > %% Untuk mencantumkan screenshot, tidak boleh ada spasi di urlnya `()`, penamaan file bebas asal gak sara dan mudah dipahami aja,, dan jangan lupa hapus komen ini yah%%
 
 Program ini membuat antrian pembeli dengan linked list (konsep Queue: FIFO).
@@ -229,9 +229,19 @@ int main() {
 ```
 
 > Output
-> ![Screenshot bagian x](output/screenshot_soal2A.png)
+> ![Screenshot bagian x](output/singlylist.png)
 
-penjelasan kode
+Program ini membuat linked list sederhana dan bisa membalik urutannya (reverse).
+
+struct Node menyimpan data dan pointer next ke node berikutnya.
+
+tambahNode() → menambahkan data di akhir list.
+
+tampilkanList() → menampilkan semua isi list dari awal ke akhir.
+
+reverseList() → membalik urutan node (node terakhir jadi pertama).
+
+main() → menambah 3 data, menampilkan sebelum & sesudah dibalik.
 
 
 ## Referensi
