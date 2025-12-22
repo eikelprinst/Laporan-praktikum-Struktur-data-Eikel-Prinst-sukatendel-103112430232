@@ -752,4 +752,4 @@ penjelasan
 ## Referensi
 
 1. Guna, L. A. (2022). Implementasi Prosedur dan Fungsi Dalam Bahasa Pemrograman Python. Jurnal Portal Data, 2(1). Diakses melalui https://ejurnal-bpptik.kominfo.go.id/index.php/jpd/article/view/118.
-2. 
+2. https://www.programiz.com/cpp-programming/examples/linked-list(diakses dalam pengertian cpp lengkap)
