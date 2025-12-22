@@ -213,7 +213,7 @@ int main() {
 ```
 
 > Output
-> ![Screenshot bagian x](output/screenshot_soal2B.png)
+> ![Screenshot bagian x](output/guided1.png)
 
 ## Unguided
 
@@ -359,7 +359,7 @@ int main() {
 ```
 
 > Output
-> ![Screenshot bagian x](output/screenshot_soal1.png)
+> ![Screenshot bagian x](output/unguided1.png)
 > %% Untuk mencantumkan screenshot, tidak boleh ada spasi di urlnya `()`, penamaan file bebas asal gak sara dan mudah dipahami aja,, dan jangan lupa hapus komen ini yah%%
 
 Program menyediakan menu interaktif untuk memasukkan data kendaraan dan menampilkan seluruh data yang ada di dalam list. Saat memasukkan data, sistem akan mengecek apakah nomor polisi sudah terdaftar atau belum untuk menghindari data duplikat. Dengan menu yang sederhana dan tampilan yang rapi, program ini memudahkan pengguna dalam memahami cara kerja double linked list secara praktis.
@@ -531,7 +531,7 @@ int main() {
 ```
 
 > Output
-> ![Screenshot bagian x](output/screenshot_soal2A.png)
+> ![Screenshot bagian x](output/unguided2.png)
 
 penjelasan kode
 Program menyediakan menu interaktif untuk menambah data kendaraan, menampilkan seluruh data, serta mencari kendaraan berdasarkan nomor polisi. Sebelum data dimasukkan, sistem akan melakukan pengecekan agar tidak terjadi duplikasi nomor polisi. Dengan tampilan menu yang rapi dan fungsi yang terpisah, program ini memudahkan pengguna memahami penerapan double linked list dalam pengelolaan data sederhana.
@@ -744,7 +744,7 @@ int main() {
 ```
 
 > Output
-> ![Screenshot bagian x](output/screenshot_soal2B.png)
+> ![Screenshot bagian x](output/unguided3.png)
 
 penjelasan 
   Melalui menu interaktif, pengguna dapat menambahkan data kendaraan, menampilkan seluruh data, mencari data berdasarkan nomor polisi, serta menghapus data tertentu. Sebelum data dimasukkan, program akan melakukan pengecekan agar tidak terjadi duplikasi nomor polisi. Dengan pembagian fungsi yang jelas dan tampilan menu yang rapi, program ini memudahkan pemahaman konsep double linked list dalam pengolahan data sederhana.
