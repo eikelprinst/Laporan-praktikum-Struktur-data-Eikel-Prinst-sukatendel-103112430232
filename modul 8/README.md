@@ -116,6 +116,9 @@ int main() {
 
 ```
 
+> Output
+> ![Screenshot bagian x](output/guided1.png)
+
 ## Unguided
 
 ### Soal 1
@@ -229,7 +232,7 @@ int main() {
 ```
 
 > Output
-> ![Screenshot bagian x](output/screenshot_soal1.png)
+> ![Screenshot bagian x](output/screenshot_unguided1.png)
 > %% Untuk mencantumkan screenshot, tidak boleh ada spasi di urlnya `()`, penamaan file bebas asal gak sara dan mudah dipahami aja,, dan jangan lupa hapus komen ini yah%%
 
 Penjelasan 
@@ -355,7 +358,7 @@ int main() {
 ```
 
 > Output
-> ![Screenshot bagian x](output/screenshot_soal2A.png)
+> ![Screenshot bagian x](output/screenshot_unguided2.png)
 
 penjelasan kode
 
@@ -473,7 +476,7 @@ int main() {
 ```
 
 > Output
-> ![Screenshot bagian x](output/screenshot_soal2B.png)
+> ![Screenshot bagian x](output/screenshot_unguided3.png)
 
 Operasi enqueue pada program ini dilakukan dengan menggeser penunjuk tail secara melingkar menggunakan operasi modulo, tanpa perlu menggeser seluruh isi array. Sementara itu, operasi dequeue hanya memindahkan penunjuk head ke posisi berikutnya secara melingkar, sehingga proses penghapusan data menjadi lebih efisien. Fungsi printInfo dirancang khusus untuk menampilkan isi queue dengan cara menelusuri elemen mulai dari head hingga tail secara melingkar. Dengan pendekatan ini, circular queue mampu mengatasi masalah “penuh semu” yang sering terjadi pada implementasi queue array biasa.
 
