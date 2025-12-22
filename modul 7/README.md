@@ -86,7 +86,7 @@ int main() {
 ```
 
 > Output
-> ![Screenshot bagian x](output/screenshot_soal1.png)
+> ![Screenshot bagian x](output/guided1.png)
 > %% Untuk mencantumkan screenshot, tidak boleh ada spasi di urlnya `()`, penamaan file bebas asal gak sara dan mudah dipahami aja,, dan jangan lupa hapus komen ini yah%%
 
 Penjelasan
@@ -199,7 +199,7 @@ int main() {
 ```
 
 > Output
-> ![Screenshot bagian x](output/screenshot_soal1.png)
+> ![Screenshot bagian x](output/unguided1.png)
 > %% Untuk mencantumkan screenshot, tidak boleh ada spasi di urlnya `()`, penamaan file bebas asal gak sara dan mudah dipahami aja,, dan jangan lupa hapus komen ini yah%%
 
 Penjelasan
@@ -349,10 +349,10 @@ int main() {
 ```
 
 > Output
-> ![Screenshot bagian x](output/screenshot_soal2A.png)
+> ![Screenshot bagian x](output/unguided2.png)
 
 penjelasan kode
-
+Program ini mengimplementasikan struktur data Stack dan Queue berbasis array dengan ukuran maksimum tertentu. Stack bekerja dengan prinsip Last In First Out (LIFO), sedangkan Queue menggunakan prinsip First In First Out (FIFO). Stack digunakan sebagai struktur utama, sementara Queue berperan sebagai struktur bantu untuk melakukan operasi tambahan seperti membalik urutan Stack. Setiap struktur memiliki fungsi dasar seperti inisialisasi, pengecekan kosong dan penuh, serta operasi penambahan dan penghapusan data.
 
 soal nomor 3
 
@@ -516,7 +516,7 @@ int main() {
 ```
 
 > Output
-> ![Screenshot bagian x](output/screenshot_soal2B.png)
+> ![Screenshot bagian x](output/unguided3.png)
 
 penjelasan
   Program ini mengimplementasikan Stack dan Queue berbasis array dengan tipe data char. Stack bekerja menggunakan prinsip LIFO (Last In First Out) dan memiliki operasi dasar seperti push, pop, pengecekan kosong dan penuh, serta fungsi untuk menampilkan isi Stack dari posisi TOP. Queue digunakan sebagai struktur bantu dengan prinsip FIFO (First In First Out).
