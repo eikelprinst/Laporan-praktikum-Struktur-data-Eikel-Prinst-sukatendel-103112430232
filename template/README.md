@@ -8,6 +8,22 @@
 
 ### soal 1
 
+```go
+package main
+
+func main() {
+	fmt.Println("Kode kalian disini")
+	fmt.Println("JANGAN MASUKIN >>SCREENSHOT<< KODE KALIAN DISINI")
+	fmt.Println("KALAU ADA -20 POIN LAPRAK")
+}
+```
+
+> Output
+> ![Screenshot bagian x](output/screenshot_soal1.png)
+> %% Untuk mencantumkan screenshot, tidak boleh ada spasi di urlnya `()`, penamaan file bebas asal gak sara dan mudah dipahami aja,, dan jangan lupa hapus komen ini yah%%
+
+Penjelasan
+
 aku mengerjakan perulangan
 
 ## Unguided
@@ -44,12 +60,12 @@ func main() {
 ```
 
 > Output
-> ![Screenshot bagian x](output/screenshot_soal2A.png)
+> ![Screenshot bagian x](output/screenshot_soal2.png)
 
 penjelasan 
 
 
-soal nomor 2
+soal nomor 3
 
 ```go
 package main
@@ -60,7 +76,7 @@ func main() {
 ```
 
 > Output
-> ![Screenshot bagian x](output/screenshot_soal2B.png)
+> ![Screenshot bagian x](output/screenshot_soal3.png)
 
 penjelasan 
 
