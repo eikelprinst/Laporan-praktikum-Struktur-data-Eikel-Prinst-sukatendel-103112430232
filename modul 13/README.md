@@ -86,7 +86,7 @@ int main() {
 ```
 
 > Output
-> ![Screenshot bagian x](output/screenshot_soal1.png)
+> ![Screenshot bagian x](output/guided1.png)
 > %% Untuk mencantumkan screenshot, tidak boleh ada spasi di urlnya `()`, penamaan file bebas asal gak sara dan mudah dipahami aja,, dan jangan lupa hapus komen ini yah%%
 
 Penjelasan
@@ -176,7 +176,7 @@ int main() {
 ```
 
 > Output
-> ![Screenshot bagian x](output/screenshot_soal1.png)
+> ![Screenshot bagian x](output/unguided1.png)
 > %% Untuk mencantumkan screenshot, tidak boleh ada spasi di urlnya `()`, penamaan file bebas asal gak sara dan mudah dipahami aja,, dan jangan lupa hapus komen ini yah%%
 
 Penjelasan 
@@ -306,7 +306,7 @@ int main() {
 ```
 
 > Output
-> ![Screenshot bagian x](output/screenshot_soal2.png)
+> ![Screenshot bagian x](output/unguided2.png)
 
 penjelasan 
   Program ini mengimplementasikan Circular Singly Linked List untuk menyimpan data mahasiswa. Setiap node berisi informasi mahasiswa (nama, NIM, jenis kelamin, dan IPK) serta pointer next yang menghubungkan node ke node berikutnya secara melingkar, di mana node terakhir akan menunjuk kembali ke node pertama. Struktur ini memungkinkan proses penelusuran data dilakukan secara terus-menerus tanpa batas akhir.
