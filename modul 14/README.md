@@ -143,7 +143,7 @@ int main() {
 ```
 
 > Output
-> ![Screenshot bagian x](output/screenshot_soal1.png)
+> ![Screenshot bagian x](output/guided1.png)
 > %% Untuk mencantumkan screenshot, tidak boleh ada spasi di urlnya `()`, penamaan file bebas asal gak sara dan mudah dipahami aja,, dan jangan lupa hapus komen ini yah%%
 
 Penjelasan
@@ -256,7 +256,7 @@ int main() {
 ```
 
 > Output
-> ![Screenshot bagian x](output/screenshot_soal1.png)
+> ![Screenshot bagian x](output/unguided1.png)
 > %% Untuk mencantumkan screenshot, tidak boleh ada spasi di urlnya `()`, penamaan file bebas asal gak sara dan mudah dipahami aja,, dan jangan lupa hapus komen ini yah%%
 
 Penjelasan 
@@ -444,7 +444,7 @@ int main() {
 ```
 
 > Output
-> ![Screenshot bagian x](output/screenshot_soal2.png)
+> ![Screenshot bagian x](output/unguided2.png)
 
 penjelasan 
 Program ini mengimplementasikan graph tidak berarah (undirected graph) menggunakan multi linked list (adjacency list). Setiap node (ElmNode) menyimpan informasi berupa karakter (info), penanda kunjungan (visited), pointer ke daftar edge (firstEdge), serta pointer ke node berikutnya (Next). Sementara itu, edge (ElmEdge) berfungsi sebagai penghubung antar node dengan menyimpan alamat node tujuan (Node) dan pointer ke edge selanjutnya. Struktur ini memungkinkan setiap node memiliki banyak tetangga secara dinamis dan efisien dari sisi memori.
@@ -611,7 +611,7 @@ int main() {
 ```
 
 > Output
-> ![Screenshot bagian x](output/screenshot_soal3.png)
+> ![Screenshot bagian x](output/unguided3.png)
 
 penjelasan 
   Program ini mengimplementasikan dua metode penelusuran graph, yaitu Depth First Search (DFS) dan Breadth First Search (BFS). DFS dilakukan menggunakan pendekatan rekursif, di mana penelusuran dimulai dari satu node lalu masuk sedalam mungkin ke node tetangga sebelum berpindah ke cabang lain. Setiap node yang dikunjungi akan ditandai agar tidak diproses ulang, sehingga traversal berjalan dengan aman tanpa pengulangan.
