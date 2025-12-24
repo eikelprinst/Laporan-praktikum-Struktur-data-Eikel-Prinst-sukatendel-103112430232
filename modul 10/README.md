@@ -73,7 +73,7 @@ int main() {
 
 ```
 > Output
-> ![Screenshot bagian x](output/screenshot_soal1.png)
+> ![Screenshot bagian x](output/guided1.png)
 > %% Untuk mencantumkan screenshot, tidak boleh ada spasi di urlnya `()`, penamaan file bebas asal gak sara dan mudah dipahami aja,, dan jangan lupa hapus komen ini yah%%
 
 Penjelasan
@@ -139,7 +139,7 @@ int main() {
 ```
 
 > Output
-> ![Screenshot bagian x](output/screenshot_soal1.png)
+> ![Screenshot bagian x](output/unguided1.png)
 > %% Untuk mencantumkan screenshot, tidak boleh ada spasi di urlnya `()`, penamaan file bebas asal gak sara dan mudah dipahami aja,, dan jangan lupa hapus komen ini yah%%
 
 Penjelasan 
@@ -213,7 +213,7 @@ int main() {
 ```
 
 > Output
-> ![Screenshot bagian x](output/screenshot_soal2A.png)
+> ![Screenshot bagian x](output/unguided2.png)
 
 penjelasan 
   Program ini merupakan implementasi Binary Search Tree (BST) yang memanfaatkan fungsi rekursif untuk mengelola data. Setiap node menyimpan satu nilai dan dua pointer yang mengarah ke anak kiri dan kanan. Proses penyisipan data dilakukan dengan aturan BST, yaitu nilai yang lebih kecil ditempatkan di subtree kiri dan nilai yang lebih besar di subtree kanan, sehingga struktur pohon tetap terurut dan efisien untuk pencarian.
@@ -290,7 +290,7 @@ int main() {
 ```
 
 > Output
-> ![Screenshot bagian x](output/screenshot_soal2B.png)
+> ![Screenshot bagian x](output/unguided3.png)
 
 penjelasan 
   Program ini mengimplementasikan Binary Search Tree (BST) dengan tiga metode traversal utama, yaitu Pre-order, In-order, dan Post-order. Penyisipan data dilakukan secara rekursif berdasarkan aturan BST, di mana nilai yang lebih kecil dari node induk ditempatkan di subtree kiri, sedangkan nilai yang lebih besar berada di subtree kanan. Dengan aturan ini, struktur tree tetap terorganisir dan mendukung operasi yang efisien.
